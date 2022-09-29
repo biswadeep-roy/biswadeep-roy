@@ -23,7 +23,7 @@
 <p align="left">
 <a href="https://twitter.com/https://twitter.com/the__biebs_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/the__biebs_" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/biswadeep-roy-022804219/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/biswadeep-roy-022804219/" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/biebs__/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/biebs__/" height="30" width="40" /></a>
+<a href="https://www.instagram.com/biebs__/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/biebs__/" height="30" width="40" /></a>
 <a href="https://discord.gg/Biebs#9547" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Biebs#9547" height="30" width="40" /></a>
 </p>
 
