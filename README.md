@@ -35,3 +35,11 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=biswadeep-roy&show_icons=true&locale=en" alt="biswadeep-roy" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=biswadeep-roy&" alt="biswadeep-roy" /></p>
+
+
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=biswadeep-roy&show_icons=true&locale=en&layout=compact" alt="biswadeep-roy" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=biswadeep-roy&show_icons=true&locale=en" alt="biswadeep-roy" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=biswadeep-roy&" alt="biswadeep-roy" /></p>
