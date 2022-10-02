@@ -3,7 +3,7 @@
 <h3 align="center">A programmer</h3>
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=biswadeep-roy&label=Profile%20views&color=0e75b6&style=flat" alt="biswadeep-roy" /> </p>
+
 ❤ Views and Followers
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=SubhamRaoniar28">
