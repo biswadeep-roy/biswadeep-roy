@@ -4,7 +4,11 @@
 <img align="right" alt = "Coding" width="400" src="https://t4.ftcdn.net/jpg/01/35/92/85/360_F_135928597_xU5EzKq6vpOeXPX5vsbI48zfVVkSRlrF.jpg">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=biswadeep-roy&label=Profile%20views&color=0e75b6&style=flat" alt="biswadeep-roy" /> </p>
-
+## ❤ Views and Followers
+<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=SubhamRaoniar28">
+</a>
+<a href="https://github.com/thebiebs?tab=followers"><img src="https://img.shields.io/github/followers/biswadeep-roy?label=Followers&style=social" alt="GitHub Badge"></a>
 
 
 - 🔭 I’m currently working on **Java**
@@ -35,9 +39,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=biswadeep-roy&show_icons=true&locale=en" alt="biswadeep-roy" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=biswadeep-roy&" alt="biswadeep-roy" /></p>
-
-## ❤ Views and Followers
-<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=SubhamRaoniar28">
-</a>
-<a href="https://github.com/thebiebs?tab=followers"><img src="https://img.shields.io/github/followers/TheBiebs?label=Followers&style=social" alt="GitHub Badge"></a>
