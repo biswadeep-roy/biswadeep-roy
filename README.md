@@ -36,3 +36,8 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=biswadeep-roy&" alt="biswadeep-roy" /></p>
 
+## ❤ Views and Followers
+<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=SubhamRaoniar28">
+</a>
+<a href="https://github.com/thebiebs?tab=followers"><img src="https://img.shields.io/github/followers/TheBiebs?label=Followers&style=social" alt="GitHub Badge"></a>
