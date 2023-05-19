@@ -10,18 +10,6 @@
     <img src="https://komarev.com/ghpvc/?username=SubhamRaoniar28">
 </a>
 <a href="https://github.com/thebiebs?tab=followers"><img src="https://img.shields.io/github/followers/biswadeep-roy?label=Followers&style=social" alt="GitHub Badge"></a>
-
-
-- 🔭 I’m currently working on **Java**
-
-- 🌱 I’m currently learning **django**
-
-- 👯 I’m looking to collaborate on **Python projects**
-
-- 🤝 I’m looking for help with **django**
-
-- 💬 Ask me about **react, python, javascript**
-
 - 📫 How to reach me **biswadeeproy1230@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
