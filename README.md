@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi 👋, I'm Biswadeep Roy</h1>
+<h1 align="center">Hi, I'm Biswadeep Roy</h1>
 <h3 align="center">A programmer</h3>
 
 <img align="right" alt = "Coding" width="400" src="https://t4.ftcdn.net/jpg/01/35/92/85/360_F_135928597_xU5EzKq6vpOeXPX5vsbI48zfVVkSRlrF.jpg">
