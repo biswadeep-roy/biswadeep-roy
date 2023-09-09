@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://YOUR-IMAGE-URL" alt="Profile Image">
-</p>
-
 <h1 align="center">Hi there, I'm Biswadeep Roy 👋</h1>
 <h3 align="center">Software Engineer | AI Enthusiast</h3>
 
@@ -15,7 +11,7 @@
 </p>
 
 <p align="center">
-  👀 Passionate about Artificial Intelligence and its potential.<br>
+  <h4>👀 Passionate about Artificial Intelligence and its potential.<br> </h4>
   🌱 Exploring the fascinating world of Machine Learning.<br>
   💞 Open to collaborations in Web Development and AI projects.<br>
   ⚡ Fun fact: Think Think Think... 🧠
@@ -41,11 +37,4 @@
   <img src="https://komarev.com/ghpvc/?username=biswadeep-roy&color=blueviolet" alt="Visitor Count">
 </p>
 
-
-<br/>
-❤ Views and Followers
-<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
-<img src="https://komarev.com/ghpvc/?username=biswadeep-roy">
-</a>
-<a href="https://github.com/thebiebs?tab=followers"><img src="https://img.shields.io/github/followers/biswadeep-roy?label=Followers&style=social" alt="GitHub Badge"></a>
 
