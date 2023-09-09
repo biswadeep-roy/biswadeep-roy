@@ -12,9 +12,9 @@
 
 <p align="center">
   <h4>👀 Passionate about Artificial Intelligence and its potential.<br> </h4>
-  🌱 Exploring the fascinating world of Machine Learning.<br>
-  💞 Open to collaborations in Web Development and AI projects.<br>
-  ⚡ Fun fact: Think Think Think... 🧠
+  <h4>🌱 Exploring the fascinating world of Machine Learning.<br></h4>
+  <h4>💞 Open to collaborations in Web Development and AI projects.<br></h4>
+  <h4>⚡ Fun fact: Think Think Think... 🧠</h4>
 </p>
 
 <h3 align="center">Skills</h3>
