@@ -20,7 +20,7 @@
 <h3 align="center">Skills</h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,aws,html,css,js,py,nodejs,vscode,git,bootstrap,php,express,mongodb,cpp,tensorflow" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,bootstrap,express,mongodb,react,rest,c,cpp,java,py,tensorflow,keras,nlp,nodejs,vscode,linux,django,arduino,matlab,r,git,php" />
 </p>
 
 
