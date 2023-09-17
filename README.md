@@ -95,6 +95,9 @@
     <a href="https://www.oracle.com/cloud/" title="Oracle Cloud">
     <img src="https://img.shields.io/badge/Oracle%20Cloud-Oracle%20Cloud-F80000?logo=oracle&logoColor=white" alt="Oracle Cloud">
   </a>
+  <a href="https://opencv.org/" title="OpenCV">
+    <img src="https://img.shields.io/badge/OpenCV-OpenCV-5C3EE8?logo=opencv&logoColor=white" alt="OpenCV">
+  </a>
 </p>
 
 
