@@ -98,6 +98,15 @@
   <a href="https://opencv.org/" title="OpenCV">
     <img src="https://img.shields.io/badge/OpenCV-OpenCV-5C3EE8?logo=opencv&logoColor=white" alt="OpenCV">
   </a>
+  <a href="https://jquery.com/" title="jQuery">
+    <img src="https://img.shields.io/badge/jQuery-jQuery-0769AD?logo=jquery&logoColor=white" alt="jQuery">
+  </a>
+  <a href="https://matplotlib.org/" title="Matplotlib">
+    <img src="https://img.shields.io/badge/Matplotlib-Matplotlib-11557C?logo=matplotlib&logoColor=white" alt="Matplotlib">
+  </a>
+  <a href="https://pandas.pydata.org/" title="Pandas">
+    <img src="https://img.shields.io/badge/Pandas-Pandas-150458?logo=pandas&logoColor=white" alt="Pandas">
+  </a>
 </p>
 
 
