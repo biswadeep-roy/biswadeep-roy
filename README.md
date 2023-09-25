@@ -23,7 +23,7 @@
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" title="HTML">
     <img src="https://img.shields.io/badge/HTML-HTML5-E34F26?logo=html5&logoColor=white" alt="HTML">
   </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" title="CSS">
     <img src="https://img.shields.io/badge/CSS-CSS3-1572B6?logo=css3&logoColor=white" alt="CSS">
   </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" title="JavaScript">
