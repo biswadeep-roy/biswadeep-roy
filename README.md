@@ -107,6 +107,10 @@
   <a href="https://pandas.pydata.org/" title="Pandas">
     <img src="https://img.shields.io/badge/Pandas-Pandas-150458?logo=pandas&logoColor=white" alt="Pandas">
   </a>
+<a href="https://www.figma.com/" title="Figma">
+    <img src="https://img.shields.io/badge/Figma-Figma-F24E1E?logo=figma&logoColor=white" alt="Figma">
+</a>
+
 </p>
 
 
