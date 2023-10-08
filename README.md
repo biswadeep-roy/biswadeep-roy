@@ -118,11 +118,10 @@
 </p>
 
 
-
-<h3 align="center">Top Languages</h3>
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=biswadeep-roy&theme=dark&layout=compact" alt="Top Languages">
+  <a href="https://github.com/biswadeep-roy/github-language-stats" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub%20Language%20Stats-Check%20It%20Out-brightgreen" alt="GitHub Language Stats">
+  </a>
 </p>
 
 <h3 align="center">Visitor Count</h3>
