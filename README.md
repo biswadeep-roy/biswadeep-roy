@@ -110,6 +110,10 @@
 <a href="https://www.figma.com/" title="Figma">
     <img src="https://img.shields.io/badge/Figma-Figma-F24E1E?logo=figma&logoColor=white" alt="Figma">
 </a>
+<a href="https://pjreddie.com/darknet/yolo/" title="YOLO">
+    <img src="https://img.shields.io/badge/YOLO-YOLO-FFA500?logo=yolo&logoColor=white" alt="YOLO">
+</a>
+
 
 </p>
 
