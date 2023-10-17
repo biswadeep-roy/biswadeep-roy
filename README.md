@@ -132,9 +132,3 @@
 </p>
 
 
-
-
-
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=biswadeep-roy)](https://github.com/biswadeep-roy/github-readme-stats)
