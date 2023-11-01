@@ -114,7 +114,7 @@
     <img src="https://img.shields.io/badge/YOLO-YOLO-FFA500?logo=yolo&logoColor=white" alt="YOLO">
 </a>
 <a>
-    <img src="https://img.shields.io/badge/Dialogflow-Dialogflow-FF6E40?logo=dialogflow&logoColor=white" alt="Dialogflow">
+    <img src="https://img.shields.io/badge/Dialogflow-Dialogflow-FF6E40?logo=dialogflow&logoColor=white">
 </a>
 
 
