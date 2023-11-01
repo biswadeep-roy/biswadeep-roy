@@ -113,7 +113,7 @@
 <a href="https://pjreddie.com/darknet/yolo/" title="YOLO">
     <img src="https://img.shields.io/badge/YOLO-YOLO-FFA500?logo=yolo&logoColor=white" alt="YOLO">
 </a>
-<a href="https://dialogflow.cloud.google.com/" title="Dialogflow">
+<a href="https://dialogflow.cloud.google.com/">
     <img src="https://img.shields.io/badge/Dialogflow-Dialogflow-FF6E40?logo=dialogflow&logoColor=white" alt="Dialogflow">
 </a>
 
