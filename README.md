@@ -8,6 +8,9 @@
   <a href="mailto:biswadeeproy1230@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-Contact-green?style=flat&logo=gmail&labelColor=green" alt="Email">
   </a>
+    <a href="https://discord.com/users/852867684491329596" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-Connect-blue?style=flat&logo=discord&labelColor=blue" alt="Discord">
+  </a>
 </p>
 
 <p align="center">
