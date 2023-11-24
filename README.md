@@ -20,103 +20,36 @@
 <h3 align="center">Skills</h3>
 
 <p align="center">
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" title="HTML">
-    <img src="https://img.shields.io/badge/HTML-HTML5-E34F26?logo=html5&logoColor=white" alt="HTML">
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" title="CSS">
-    <img src="https://img.shields.io/badge/CSS-CSS3-1572B6?logo=css3&logoColor=white" alt="CSS">
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" title="JavaScript">
-    <img src="https://img.shields.io/badge/JavaScript-JS-F7DF1E?logo=javascript&logoColor=black" alt="JavaScript">
-  </a>
-  <a href="https://reactjs.org/" title="React">
-    <img src="https://img.shields.io/badge/React-React-61DAFB?logo=react&logoColor=white" alt="React">
-  </a>
-  <a href="https://nodejs.org/" title="Node.js">
-    <img src="https://img.shields.io/badge/Node.js-Node.js-339933?logo=node.js&logoColor=white" alt="Node.js">
-  </a>
-  <a href="https://getbootstrap.com/" title="Bootstrap">
-    <img src="https://img.shields.io/badge/Bootstrap-Bootstrap-7952B3?logo=bootstrap&logoColor=white" alt="Bootstrap">
-  </a>
-  <a href="https://expressjs.com/" title="Express">
-    <img src="https://img.shields.io/badge/Express-Express-000000?logo=express&logoColor=white" alt="Express">
-  </a>
-  <a href="https://www.mongodb.com/" title="MongoDB">
-    <img src="https://img.shields.io/badge/MongoDB-MongoDB-47A248?logo=mongodb&logoColor=white" alt="MongoDB">
-  </a>
-  <a href="https://www.learn-c.org/" title="C">
-    <img src="https://img.shields.io/badge/C-C-A8B9CC?logo=c&logoColor=white" alt="C">
-  </a>
-  <a href="http://www.cplusplus.com/" title="C++">
-    <img src="https://img.shields.io/badge/C++-C++-00599C?logo=c%2B%2B&logoColor=white" alt="C++">
-  </a>
-  <a href="https://www.java.com/" title="Java">
-    <img src="https://img.shields.io/badge/Java-Java-007396?logo=java&logoColor=white" alt="Java">
-  </a>
-  <a href="https://www.python.org/" title="Python">
-    <img src="https://img.shields.io/badge/Python-Python-3776AB?logo=python&logoColor=white" alt="Python">
-  </a>
-  <a href="https://www.tensorflow.org/" title="TensorFlow">
-    <img src="https://img.shields.io/badge/TensorFlow-TensorFlow-FF6F00?logo=tensorflow&logoColor=white" alt="TensorFlow">
-  </a>
-  <a href="https://nlp.stanford.edu/" title="Natural Language Processing (NLP)">
-    <img src="https://img.shields.io/badge/NLP-NLP-00BFFF?logo=natural-language-processing&logoColor=white" alt="NLP">
-  </a>
-  <a href="https://keras.io/" title="Keras">
-    <img src="https://img.shields.io/badge/Keras-Keras-D00000?logo=keras&logoColor=white" alt="Keras">
-  </a>
-  <a href="https://code.visualstudio.com/" title="Visual Studio Code (VSCode)">
-    <img src="https://img.shields.io/badge/VSCode-VSCode-007ACC?logo=visual-studio-code&logoColor=white" alt="VSCode">
-  </a>
-  <a href="https://www.linux.org/" title="Linux">
-    <img src="https://img.shields.io/badge/Linux-Linux-FCC624?logo=linux&logoColor=black" alt="Linux">
-  </a>
-  <a href="https://www.djangoproject.com/" title="Django">
-    <img src="https://img.shields.io/badge/Django-Django-092E20?logo=django&logoColor=white" alt="Django">
-  </a>
-  <a href="https://www.arduino.cc/" title="Arduino">
-    <img src="https://img.shields.io/badge/Arduino-Arduino-00979D?logo=arduino&logoColor=white" alt="Arduino">
-  </a>
-  <a href="https://www.mathworks.com/products/matlab.html" title="MATLAB">
-    <img src="https://img.shields.io/badge/MATLAB-MATLAB-0076A8?logo=mathworks&logoColor=white" alt="MATLAB">
-  </a>
-  <a href="https://www.r-project.org/" title="R">
-    <img src="https://img.shields.io/badge/R-R-276DC3?logo=r&logoColor=white" alt="R">
-  </a>
-  <a href="https://git-scm.com/" title="Git">
-    <img src="https://img.shields.io/badge/Git-Git-F05032?logo=git&logoColor=white" alt="Git">
-  </a>
-  <a href="https://www.php.net/" title="PHP">
-    <img src="https://img.shields.io/badge/PHP-PHP-777BB4?logo=php&logoColor=white" alt="PHP">
-  </a>
-  <a href="https://aws.amazon.com/" title="Amazon Web Services (AWS)">
-    <img src="https://img.shields.io/badge/AWS-AWS-232F3E?logo=amazon-aws&logoColor=white" alt="AWS">
-  </a>
-    <a href="https://www.oracle.com/cloud/" title="Oracle Cloud">
-    <img src="https://img.shields.io/badge/Oracle%20Cloud-Oracle%20Cloud-F80000?logo=oracle&logoColor=white" alt="Oracle Cloud">
-  </a>
-  <a href="https://opencv.org/" title="OpenCV">
-    <img src="https://img.shields.io/badge/OpenCV-OpenCV-5C3EE8?logo=opencv&logoColor=white" alt="OpenCV">
-  </a>
-  <a href="https://jquery.com/" title="jQuery">
-    <img src="https://img.shields.io/badge/jQuery-jQuery-0769AD?logo=jquery&logoColor=white" alt="jQuery">
-  </a>
-  <a href="https://matplotlib.org/" title="Matplotlib">
-    <img src="https://img.shields.io/badge/Matplotlib-Matplotlib-11557C?logo=matplotlib&logoColor=white" alt="Matplotlib">
-  </a>
-  <a href="https://pandas.pydata.org/" title="Pandas">
-    <img src="https://img.shields.io/badge/Pandas-Pandas-150458?logo=pandas&logoColor=white" alt="Pandas">
-  </a>
-<a href="https://www.figma.com/" title="Figma">
-    <img src="https://img.shields.io/badge/Figma-Figma-F24E1E?logo=figma&logoColor=white" alt="Figma">
-</a>
-<a href="https://pjreddie.com/darknet/yolo/" title="YOLO">
-    <img src="https://img.shields.io/badge/YOLO-YOLO-FFA500?logo=yolo&logoColor=white" alt="YOLO">
-</a>
-<a href="https://dialogflow.cloud.google.com/" title="Dialogflow">
-    <img src="https://img.shields.io/badge/Dialogflow-Dialogflow-FF6E40?logo=dialogflow&logoColor=white" alt="Dialogflow">
-</a>
-</a>
+   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python Badge">
+    <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML Badge">
+    <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS Badge">
+    <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap Badge">
+    <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma Badge">
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript Badge">
+    <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js Badge">
+    <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js Badge">
+    <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" alt="jQuery Badge">
+    <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white" alt="React Badge">
+    <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB Badge">
+    <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI Badge">
+    <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" alt="C Badge">
+    <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++ Badge">
+    <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java Badge">
+    <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python Badge">
+    <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas Badge">
+    <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow Badge">
+    <img src="https://img.shields.io/badge/NLP-4DB6AC?style=for-the-badge&logo=natural-language-processing&logoColor=white" alt="NLP Badge">
+    <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV Badge">
+    <img src="https://img.shields.io/badge/YOLO-FFA500?style=for-the-badge&logo=youtube&logoColor=white" alt="YOLO Badge">
+    <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" alt="Keras Badge">
+    <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux Badge">
+    <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino Badge">
+    <img src="https://img.shields.io/badge/Matlab-0076A8?style=for-the-badge&logo=mathworks&logoColor=white" alt="Matlab Badge">
+    <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R Badge">
+    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git Badge">
+    <img src="https://img.shields.io/badge/Oracle%20Cloud-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle Cloud Badge">
+    <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS Badge">
+    <img src="https://img.shields.io/badge/Dialogflow-FF9800?style=for-the-badge&logo=dialogflow&logoColor=white" alt="Dialogflow Badge">
 </p>
 
 
