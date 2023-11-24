@@ -11,16 +11,15 @@
 </p>
 
 <p align="center">
-  <h4>👀 Passionate about Artificial Intelligence and its potential.<br> </h4>
-  <h4>🌱 Exploring the fascinating world of Machine Learning.<br></h4>
-  <h4>💞 Open to collaborations in Web Development and AI projects.<br></h4>
+  <h4>👀 Passionate about Artificial Intelligence and its potential.</h4>
+  <h4>🌱 Exploring the fascinating world of Machine Learning.</h4>
+  <h4>💞 Open to collaborations in Web Development and AI projects.</h4>
   <h4>⚡ Fun fact: Think Think Think... 🧠</h4>
 </p>
 
 <h3 align="center">Skills</h3>
 
 <p align="center">
-   
     <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML Badge">
     <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS Badge">
     <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap Badge">
@@ -51,7 +50,6 @@
     <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS Badge">
     <img src="https://img.shields.io/badge/Dialogflow-FF9800?style=for-the-badge&logo=dialogflow&logoColor=white" alt="Dialogflow Badge">
 </p>
-
 
 <h3 align="center">Top Languages</h3>
 
