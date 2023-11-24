@@ -140,5 +140,6 @@
   <img src="https://komarev.com/ghpvc/?username=biswadeep-roy&color=blueviolet" alt="Visitor Count">
 </p>
 
-
-<a href="https://www.buymeacoffee.com/biswadeeproy" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-blue.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
+<a href="https://www.buymeacoffee.com/biswadeeproy" target="_blank">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-blue.png" alt="Buy Me A Coffee" style="height: 40px; width: 150px;">
+</a>
