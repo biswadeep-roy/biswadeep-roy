@@ -57,6 +57,9 @@
     <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="scikit-learn Badge">
     <img src="https://img.shields.io/badge/Matplotlib-3776AB?style=for-the-badge&logo=matplotlib&logoColor=white" alt="Matplotlib Badge">
     <img src="https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white" alt="SciPy Badge">
+    <img src="https://img.shields.io/badge/Pytorch-8CAAE6?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch Badge">
+
+
 </p>
 
 <h3 align="center">Top Languages</h3>
