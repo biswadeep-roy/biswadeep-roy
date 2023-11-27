@@ -79,3 +79,8 @@
 <a href="https://www.buymeacoffee.com/biswadeeproy" target="_blank">
   <img src="https://cdn.buymeacoffee.com/buttons/v2/default-blue.png" alt="Buy Me A Coffee" style="height: 40px; width: 150px;">
 </a>
+
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=biswadeep-roy&show_icons=true&theme=dark" alt="GitHub Stats">
+</p>
