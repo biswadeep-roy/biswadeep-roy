@@ -99,7 +99,3 @@
   <br/>
   <img src="https://github-profile-trophy.vercel.app/?username=biswadeep-roy" alt="GitHub Trophies">
 </p>
-
-<a href="https://www.buymeacoffee.com/biswadeeproy" target="_blank">
-  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-blue.png" alt="Buy Me A Coffee" style="height: 40px; width: 150px;">
-</a>
