@@ -82,3 +82,9 @@
   <img src="https://cdn.buymeacoffee.com/buttons/v2/default-blue.png" alt="Buy Me A Coffee" style="height: 40px; width: 150px;">
 </a>
 
+
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=biswadeep-roy&show_icons=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=biswadeep-roy&theme=default&hide_border=false)<br/>
+[![trophy](https://github-profile-trophy.vercel.app/?username=biswadeep-roy)](https://github.com/ryo-ma/github-profile-trophy)
