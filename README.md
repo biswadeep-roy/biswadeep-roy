@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Biswadeep Roy 👋</h1>
-<h3 align="center">Software Engineer | AI Enthusiast</h3>
+<h3 align="center">Software Engineer | AI Enthusiast </h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/biswadeep-roy-022804219/" target="_blank">
