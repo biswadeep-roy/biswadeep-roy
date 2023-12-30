@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Biswadeep Roy 👋</h1>
-<h3 align="center">Software Engineer | AI Enthusiast </h3>
+<h3 align="center">Data Scientist | Full Stack Developer</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/biswadeep-roy-022804219/" target="_blank">
@@ -16,10 +16,10 @@
 </p>
 
 <p align="center">
-  <h4>👀 Passionate about Artificial Intelligence and its potential.</h4>
-  <h4>🌱 Exploring the fascinating world of Machine Learning.</h4>
-  <h4>💞 Open to collaborations in Web Development and AI projects.</h4>
-  <h4>⚡ Fun fact: Think Think Think... 🧠</h4>
+  <h4>👀 Passionate about Machine Learning and Data Science.</h4>
+  <h4>🌱 Exploring the fascinating world of Full Stack Development.</h4>
+  <h4>💞 Open to collaborations in ML, Data Science, and Full Stack projects.</h4>
+  <h4>⚡ Fun fact: I'm not funny</h4>
 </p>
 
 <h3 align="center">Skills</h3>
