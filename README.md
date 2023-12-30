@@ -77,7 +77,7 @@
 <h3 align="center">Top Languages</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=biswadeep-roy&theme=dark&layout=compact" alt="Top Languages">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=biswadeep-roy&hide_progress=true&theme=gruvbox">
 </p>
 
 <h3 align="center">Visitor Count</h3>
@@ -94,9 +94,9 @@
 <h3 align="center">📊 GitHub Stats:</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=biswadeep-roy&show_icons=true&theme=merko">
+  <img src="https://github-readme-stats.vercel.app/api?username=biswadeep-roy&show_icons=true&theme=gruvbox">
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=biswadeep-roy&theme=default&hide_border=false" alt="GitHub Streak Stats">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=biswadeep-roy&theme=default&hide_border=false&theme=gruvbox" alt="GitHub Streak Stats">
   <br/>
-  <img src="https://github-profile-trophy.vercel.app/?username=biswadeep-roy" alt="GitHub Trophies">
+  <img src="https://github-profile-trophy.vercel.app/?username=biswadeep-roy&theme=gruvbox" alt="GitHub Trophies">
 </p>
