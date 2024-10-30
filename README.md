@@ -1,102 +1,101 @@
-<h1 align="center">Hi there, I'm Biswadeep Roy 👋</h1>
-<h3 align="center">Data Scientist | Full Stack Developer</h3>
+# <div align="center">👋 Hello World, I'm Biswadeep Roy</div>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/biswadeep-roy-022804219/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin&labelColor=blue" alt="LinkedIn">
+<div align="center">
+  
+  🎓 **Data Scientist** | 💻 **Full Stack Developer**
+  
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/biswadeep-roy-022804219/)
+  [![Email](https://img.shields.io/badge/Email-Contact-D14836?style=flat&logo=gmail)](mailto:biswadeeproy1230@gmail.com)
+  [![Discord](https://img.shields.io/badge/Discord-Chat-7289DA?style=flat&logo=discord)](https://discord.com/users/852867684491329596)
+
+</div>
+
+## 🚀 About Me
+
+<div align="center">
+  <i>"Transforming data into insights, code into solutions"</i>
+</div>
+
+I'm a passionate technologist with a dual expertise in Data Science and Full Stack Development. Here's what drives me:
+
+- 🔬 **Data Science Journey**: Transforming complex datasets into actionable insights using ML/AI
+- 💻 **Full Stack Development**: Building scalable applications from concept to deployment
+- 🌱 **Current Focus**: Advanced ML architectures and modern web development frameworks
+- 🤝 **Collaboration**: Always excited to work on innovative projects that push technological boundaries
+- 📚 **Continuous Learning**: Currently exploring cutting-edge developments in AI/ML and cloud architecture
+- 🎯 **Mission**: Creating technology that makes a meaningful impact on real-world challenges
+- ⚡ **Fun fact**: I debug code faster than I debug my life decisions! 
+
+## 🛠️ Tech Stack
+
+### 💻 Programming Languages
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+
+
+
+### 🧠 AI & Data Science
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![scikit--learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![YOLO](https://img.shields.io/badge/YOLO-FFA500?style=for-the-badge&logo=youtube&logoColor=white)
+
+### 🌐 Web Development
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+
+### 🛢️ Databases
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+### ☁️ Cloud & DevOps
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Oracle Cloud](https://img.shields.io/badge/Oracle%20Cloud-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+
+
+<div align="center">
+  
+  [![Profile Views](https://komarev.com/ghpvc/?username=biswadeep-roy&color=blueviolet&style=flat)](https://github.com/biswadeep-roy)
+  
+</div>
+
+## 📊 GitHub Stats
+
+<div align="center">
+  
+  ![Stats](https://github-readme-stats.vercel.app/api?username=biswadeep-roy&show_icons=true&theme=gruvbox)
+  
+  ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=biswadeep-roy&theme=gruvbox)
+  
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=biswadeep-roy&hide_progress=true&theme=gruvbox)
+  
+  ![Trophies](https://github-profile-trophy.vercel.app/?username=biswadeep-roy&theme=gruvbox&row=2&column=4)
+  
+</div>
+
+## 🤝 Let's Connect!
+
+I'm always interested in collaborating on innovative projects and discussing new ideas. Feel free to reach out!
+
+## ☕ Support My Work
+
+<div align="center">
+  <p><strong>If you find my work valuable, consider buying me a coffee!</strong></p>
+  <p>Your support helps me create more awesome projects and contribute to the community.</p>
+  
+  <a href="https://www.buymeacoffee.com/biswadeeproy">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;">
   </a>
-  <a href="mailto:biswadeeproy1230@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-Contact-green?style=flat&logo=gmail&labelColor=green" alt="Email">
-  </a>
-<a href="https://discord.com/users/852867684491329596" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-Connect-blue?style=flat&logo=discord&labelColor=7289DA" alt="Discord">
-</a>
-
-  </a>
-</p>
-
-<p align="center">
-  <h4>👀 Passionate about Machine Learning and Data Science.</h4>
-  <h4>🌱 Exploring the fascinating world of Full Stack Development.</h4>
-  <h4>💞 Open to collaborations in ML, Data Science, and Full Stack projects.</h4>
-  <h4>⚡ Fun fact: I'm not funny</h4>
-</p>
-
-<h3 align="center">Skills</h3>
-
-<p align="center">
-    <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML Badge">
-    <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS Badge">
-    <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap Badge">
-    <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma Badge">
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript Badge">
-    <img src="https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=white" alt="React Native Badge">
-    <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript Badge">
-    <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js Badge">
-    <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js Badge">
-    <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" alt="jQuery Badge">
-    <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white" alt="React Badge">
-    <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB Badge">
-    <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI Badge">
-    <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" alt="C Badge">
-    <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++ Badge">
-    <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java Badge">
-    <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python Badge">
-    <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas Badge">
-    <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow Badge">
-    <img src="https://img.shields.io/badge/NLP-4DB6AC?style=for-the-badge&logo=natural-language-processing&logoColor=white" alt="NLP Badge">
-    <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV Badge">
-    <img src="https://img.shields.io/badge/YOLO-FFA500?style=for-the-badge&logo=youtube&logoColor=white" alt="YOLO Badge">
-    <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" alt="Keras Badge">
-    <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux Badge">
-    <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino Badge">
-    <img src="https://img.shields.io/badge/Matlab-0076A8?style=for-the-badge&logo=mathworks&logoColor=white" alt="Matlab Badge">
-    <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R Badge">
-    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git Badge">
-    <img src="https://img.shields.io/badge/Oracle%20Cloud-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle Cloud Badge">
-    <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS Badge">
-    <img src="https://img.shields.io/badge/Dialogflow-FF9800?style=for-the-badge&logo=dialogflow&logoColor=white" alt="Dialogflow Badge">
-    <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="scikit-learn Badge">
-    <img src="https://img.shields.io/badge/Matplotlib-3776AB?style=for-the-badge&logo=matplotlib&logoColor=white" alt="Matplotlib Badge">
-    <img src="https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white" alt="SciPy Badge">
-     <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch Badge">
-     <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker Badge">
-    <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes Badge">
-    <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel Badge">
-    <img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white" alt="React Router Badge">
-    <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" alt="Redux Badge">   
-    <img src="https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white" alt="Anaconda Badge">
-    <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL Badge">
-    <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman Badge">
-    <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django Badge">
-
-
-
-</p>
-
-<h3 align="center">Top Languages</h3>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=biswadeep-roy&hide_progress=true&theme=gruvbox">
-</p>
-
-<h3 align="center">Visitor Count</h3>
-
-<p align="center" style="border: 1px solid #blueviolet; padding: 10px;">
-  <img src="https://komarev.com/ghpvc/?username=biswadeep-roy&color=blueviolet" alt="Visitor Count">
-</p>
-
-<a href="https://www.buymeacoffee.com/biswadeeproy" target="_blank">
-  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-blue.png" alt="Buy Me A Coffee" style="height: 40px; width: 150px;">
-</a>
-
-
-<h3 align="center">📊 GitHub Stats:</h3>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=biswadeep-roy&show_icons=true&theme=gruvbox">
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=biswadeep-roy&theme=default&hide_border=false&theme=gruvbox" alt="GitHub Streak Stats">
-  <br/>
-  <img src="https://github-profile-trophy.vercel.app/?username=biswadeep-roy&theme=gruvbox" alt="GitHub Trophies">
-</p>
+</div>
