@@ -97,13 +97,13 @@ I am an AI Engineer and GenAI Engineer specializing in building end-to-end intel
 
 <div align="center">
   
-  ![Stats](https://github-readme-stats.vercel.app/api?username=biswadeep-roy&show_icons=true&theme=gruvbox)
+  ![Stats](https://github-readme-stats.vercel.app/api?username=biswadeep-roy&show_icons=true&include_all_commits=true&count_private=true&hide_border=true)
   
-  ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=biswadeep-roy&theme=gruvbox)
+  ![Streak](https://streak-stats.demolab.com?user=biswadeep-roy&hide_border=true)
   
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=biswadeep-roy&hide_progress=true&theme=gruvbox)
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=biswadeep-roy&layout=compact&hide_border=true)
   
-  ![Trophies](https://github-profile-trophy.vercel.app/?username=biswadeep-roy&theme=gruvbox&row=2&column=4)
+  ![Trophies](https://github-profile-trophy.vercel.app/?username=biswadeep-roy&no-frame=true&no-bg=true&column=-1)
   
 </div>
 
