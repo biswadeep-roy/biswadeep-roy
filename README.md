@@ -96,15 +96,15 @@ I am an AI Engineer and GenAI Engineer specializing in building end-to-end intel
 ## 📊 GitHub Stats
 
 <div align="center">
-  
-  ![Stats](https://github-readme-stats.vercel.app/api?username=biswadeep-roy&show_icons=true&include_all_commits=true&count_private=true&hide_border=true)
-  
-  ![Streak](https://streak-stats.demolab.com?user=biswadeep-roy&hide_border=true)
-  
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=biswadeep-roy&layout=compact&hide_border=true)
-  
-  ![Trophies](https://github-profile-trophy.vercel.app/?username=biswadeep-roy&no-frame=true&no-bg=true&column=-1)
-  
+
+<img src="https://github-readme-stats.vercel.app/api?username=biswadeep-roy&show_icons=true" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=biswadeep-roy&layout=compact" />
+
+<img src="https://streak-stats.demolab.com?user=biswadeep-roy" />
+
+<img src="https://github-profile-trophy.vercel.app/?username=biswadeep-roy" />
+
 </div>
 
 ## 🤝 Let's Connect!
