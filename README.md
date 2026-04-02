@@ -99,9 +99,9 @@ I am an AI Engineer and GenAI Engineer specializing in building end-to-end intel
 
 <img src="https://github-readme-stats.vercel.app/api?username=biswadeep-roy&show_icons=true" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=biswadeep-roy&layout=compact" />
-
 <img src="https://streak-stats.demolab.com?user=biswadeep-roy" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=biswadeep-roy&layout=compact" />
 
 <img src="https://github-profile-trophy.vercel.app/?username=biswadeep-roy" />
 
