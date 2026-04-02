@@ -82,22 +82,19 @@ AI Engineer & GenAI Engineer building **LLM apps, AI automation, and scalable fu
 ![Vercel](https://img.shields.io/badge/Vercel-black?style=for-the-badge&logo=vercel&logoColor=white)
 
 ---
+## 📊 GitHub Stats
 
-# 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=biswadeep-roy&show_icons=true&theme=tokyonight&hide_border=true)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=biswadeep-roy&theme=tokyonight&hide_border=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=biswadeep-roy&layout=compact&theme=tokyonight&hide_border=true)
-
----
-
-# 🏆 GitHub Trophies
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=biswadeep-roy&theme=tokyonight&no-frame=true&row=1&column=7)
-
----
+<div align="center">
+  
+  ![Stats](https://github-readme-stats.vercel.app/api?username=biswadeep-roy&show_icons=true&theme=gruvbox)
+  
+  ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=biswadeep-roy&theme=gruvbox)
+  
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=biswadeep-roy&hide_progress=true&theme=gruvbox)
+  
+  ![Trophies](https://github-profile-trophy.vercel.app/?username=biswadeep-roy&theme=gruvbox&row=2&column=4)
+  
+</div>
 
 # 👀 Profile Views
 
