@@ -1,68 +1,68 @@
-# <div align="center">👋 Hello World, I'm Biswadeep Roy</div>
+# Biswadeep Roy
+
+**AI Engineer · GenAI Engineer · Full Stack Developer**
+
+📍 Kolkata, India &nbsp;|&nbsp; 🌐 [Portfolio](https://biswadeep-roy-portfolio.vercel.app) &nbsp;|&nbsp; 💼 [LinkedIn](https://www.linkedin.com/in/biswadeep-roy-022804219/) &nbsp;|&nbsp; 📬 [biswadeeproy1230@gmail.com](mailto:biswadeeproy1230@gmail.com)
+
+---
+
+I build AI systems and full-stack applications — from training and fine-tuning models to shipping production-ready products. My current focus is on **Generative AI engineering**: designing LLM pipelines, RAG architectures, and AI-powered applications using the OpenAI ecosystem and open-source models.
+
+I care about writing clean, maintainable code and building things that actually work in production.
+
+---
+
+## Skills
+
+**Languages**
+Python · JavaScript · TypeScript · C++ · Java · R · SQL
+
+**AI & Machine Learning**
+LLMs · RAG · Prompt Engineering · Fine-tuning · OpenAI API · Hugging Face · LangChain · TensorFlow · PyTorch · scikit-learn · Pandas · NumPy · OpenCV · YOLOv8
+
+**Generative AI**
+GPT-4 / GPT-4o · Claude API · Embedding Models · Vector Databases · Agents & Tool Use · Multimodal AI
+
+**Web Development**
+React · Next.js · Node.js · Express.js · FastAPI · Django · React Native
+
+**Databases & Data Warehousing**
+MongoDB · MySQL · Snowflake
+
+**Cloud & DevOps**
+AWS · Oracle Cloud · Docker · Kubernetes · Vercel · Git
+
+---
+## GitHub Stats
 
 <div align="center">
-  
-  🎓 **Data Scientist** | 💻 **Full Stack Developer**
-  
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/biswadeep-roy-022804219/)
-  [![Email](https://img.shields.io/badge/Email-Contact-D14836?style=flat&logo=gmail)](mailto:biswadeeproy1230@gmail.com)
-  [![Discord](https://img.shields.io/badge/Discord-Chat-7289DA?style=flat&logo=discord)](https://discord.com/users/852867684491329596)
-
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=biswadeep-roy&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&hide_title=true"/>
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=biswadeep-roy&layout=compact&langs_count=8&theme=github_dark&hide_border=true&hide_title=true"/>
 </div>
 
-## 🚀 About Me
+---
 
-<div align="center">
-  <i>"Transforming data into insights, code into solutions"</i>
-</div>
+## Currently Exploring
 
-I'm a passionate technologist with a dual expertise in Data Science and Full Stack Development. Here's what drives me:
+- Multi-agent LLM systems and agentic workflows
+- RAG with hybrid search (vector + keyword)
+- LLM fine-tuning with LoRA / QLoRA
+- MLOps — experiment tracking, model deployment, monitoring
 
-- 🔬 **Data Science Journey**: Transforming complex datasets into actionable insights using ML/AI
-- 💻 **Full Stack Development**: Building scalable applications from concept to deployment
-- 🌱 **Current Focus**: Advanced ML architectures and modern web development frameworks
-- 🤝 **Collaboration**: Always excited to work on innovative projects that push technological boundaries
-- 📚 **Continuous Learning**: Currently exploring cutting-edge developments in AI/ML and cloud architecture
-- 🎯 **Mission**: Creating technology that makes a meaningful impact on real-world challenges
-- ⚡ **Fun fact**: I debug code faster than I debug my life decisions! 
+---
 
-## 🛠️ Tech Stack
+## Let's Talk
 
-### 💻 Programming Languages
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+If you're building something with AI — or want to collaborate on open source — reach out.
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/biswadeep-roy-022804219/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:biswadeeproy1230@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](https://biswadeep-roy-portfolio.vercel.app)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/biswadeep___roy)
 
+---
 
-### 🧠 AI & Data Science
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![scikit--learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![YOLO](https://img.shields.io/badge/YOLO-FFA500?style=for-the-badge&logo=youtube&logoColor=white)
-
-### 🌐 Web Development
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-
-### 🛢️ Databases
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-### ☁️ Cloud & DevOps
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Oracle Cloud](https://img.shields.io/badge/Oracle%20Cloud-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+<sub>📊 Profile views: <img src="https://komarev.com/ghpvc/?username=biswadeep-roy&style=flat-square&color=555"/></sub>
 
 
 <div align="center">
